@@ -1,3 +1,3 @@
-# This is the Pliancy guru-cli homebrew tap
+# This is the Pliancy homebrew tap
 
-you probably want https://github.com/pliancy/guru-cli
+this serves to make it easy to install many of pliancy's tools via homebrew
