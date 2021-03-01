@@ -1,9 +1,3 @@
-# Pliancy Guru-cli
+# This is the Pliancy guru-cli homebrew tap
 
-## How do I install these formulae?
-`brew install pliancy/guru-cli/<formula>`
-
-Or `brew tap pliancy/guru-cli` and then `brew install <formula>`.
-
-## Documentation
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+you probably want https://github.com/pliancy/guru-cli
